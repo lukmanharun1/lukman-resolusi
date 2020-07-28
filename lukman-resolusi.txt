@@ -4,4 +4,3 @@ LUKMAN RESOLUSI
 - membuat karya tulis -> kelas online
 - belajar laravel
 - belajar vue js
-- belajar svelte js
