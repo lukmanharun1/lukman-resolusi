@@ -5,6 +5,10 @@ RENCANA KONTENT
  - Game lainya
  - PB
  - PUBG
+-Linu
  - kali linux
  - ubuntu
  - mint
+
+
+
