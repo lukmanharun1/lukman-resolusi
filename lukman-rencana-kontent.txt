@@ -1,4 +1,6 @@
 RENCANA KONTENT
 
 - Game
+ - Freefire
+ - Game lainya
 - Linux
