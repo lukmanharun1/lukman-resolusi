@@ -3,6 +3,8 @@ RENCANA KONTENT
 - Game
  - Freefire
  - Game lainya
-- Linux
+ - PB
+ - PUBG
  - kali linux
  - ubuntu
+ - mint
