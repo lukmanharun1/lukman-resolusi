@@ -3,6 +3,8 @@ RENCANA KONTENT
 - Game
  - Freefire
  - Game lainya
+ - Mobile Legends
 - Linux
  - kali linux
  - ubuntu
+ - Mint
